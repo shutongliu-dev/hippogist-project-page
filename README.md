@@ -4,7 +4,7 @@ Static project page using the owner’s e-PoG template. Open `index.html` locall
 
 Public project page: https://shutongliu-dev.github.io/hippogist-project-page/
 
-Published with GitHub Pages from the main branch root. Anonymous authorship follows the available draft. Results are explicitly labeled as precursor workflows; the complete dual-store evaluation is pending.
+Published with GitHub Pages from the main branch root. The webpage lists Shutong Liu as sole author, as requested. Results are explicitly labeled as precursor workflows; the complete dual-store evaluation is pending.
 
 Source: `Desktop/交大预推免/HIPPOGIST_Overleaf_NeurIPS2026_v2.zip`.
 - paper.pdf: paper-preview.pdf
